@@ -11,15 +11,15 @@ logger = logging.getLogger(__name__)
 
 ADMIN_USER_ID = '6558098741'
 ADMIN_USERNAME = '@FNxOwner'
-BOT_TOKEN = '7626369077:AAGRMmeBOCV3i0iN5BJvVLrNLhNHVxbgrlg'
+BOT_TOKEN = '8005190140:AAGwDUQ1_q74g2ExXfMquUGRhBT2Xk-iXP8'
 DEFAULT_DOMAIN = 'fnnetworkofficial.com'
 available_domains = [DEFAULT_DOMAIN]
 user_subdomains = {}
 cloudflare_configs = {
     'fnnetworkofficial.com': {
-        '799d54e7f323f8d900466f1243e743ccde312': '',
-        '871d1dc3f8936cfa3485a8ec4b074555': '',
-        'shubhamkr.sk8016@gmail.com': ''
+        'api_key': 'v1.0-c0476b9f123bc05c2105318a-3f2da1f297911d13dfc2514a6b1d0c25efcc080385e5be3c8e8de01c94cfe73145e092c1248b9bc406a1e8c9ed51f2cd7d50c2fb0be3c4171d0af27f7ae85a2565444d42030b11d3e1',
+        'zone_id': '871d1dc3f8936cfa3485a8ec4b074555',
+        'email': 'shubhamkr.sk8016@gmail.com'
     }
 }
 (ASK_API_KEY, ASK_ZONE_ID, ASK_EMAIL, ASK_DOMAIN, ASK_IP) = range(5)
