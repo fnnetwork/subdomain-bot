@@ -17,7 +17,7 @@ available_domains = [DEFAULT_DOMAIN]
 user_subdomains = {}
 cloudflare_configs = {
     'fnnetworkofficial.com': {
-        'api_key': '799d54e7f323f8d900466f1243e743ccde312',
+        'api_key': 'pjzwquCGEOh7JDETwgAESUjHonBIUd5rGykOPBbw',
         'zone_id': '871d1dc3f8936cfa3485a8ec4b074555',
         'email': 'shubhamkr.sk8016@gmail.com'
     }
